@@ -12,7 +12,7 @@ You will need the Placement_Data_Full_Class.csv dataset which can be found in th
 Instructions for setting up the project:
 1. Download the dataset and open the visual studio code.
 2. Make a new file in the visual studio code .
-3. Import the dataset in the notebook as shown in the videos.
+3. Import the dataset in the vsc as shown in the videos.
 4. Some packages like plotly might not be installed on your system, so to 
    install those packages, just head over to the anaconda prompt and pip install all the necessary packages.
 
